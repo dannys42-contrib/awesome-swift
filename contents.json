@@ -1618,6 +1618,11 @@
       "description": "Promise and future lib.",
       "homepage": "https://github.com/Thomvis/BrightFutures"
     }, {
+      "title": "Causality",
+      "category": "events",
+      "description": "A fully-typed, thread-safe publish/subscribe event bus",
+      "homepage": "https://github.com/dannys42/Causality"
+    }, {
       "title": "EmitterKit",
       "category": "events",
       "description": "Implementation of event emitters and listeners.",
